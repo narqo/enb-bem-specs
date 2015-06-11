@@ -32,7 +32,7 @@
     "istanbul": "0.3.10",
     "lodash": "3.5.0",
     "mocha-phantomjs": "3.5.3",
-    "phantomjs": "1.9.16",
+    "phantomjs": "1.9.x",
     "vow": "0.4.9"
   },
   "devDependencies": {
